@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asiguqaCPT
+- 👋 Hi, I’m Anele Siguqa
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m a full stack developer
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me asiguqa@student.wethinkcode.co.za
 

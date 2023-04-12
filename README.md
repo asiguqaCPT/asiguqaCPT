@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anele Siguqa
 - 👀 I’m a full stack development
-- 🌱 I’m currently learning node/express
+- 🌱 I’m currently freelancing
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me asiguqa@student.wethinkcode.co.za
 
 <!---
 asiguqaCPT/asiguqaCPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
